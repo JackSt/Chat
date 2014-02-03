@@ -1,0 +1,24 @@
+﻿Build started 03.02.2014 0:22:26.
+     1>Project "C:\Users\Jack\Desktop\Chat_Client\Chat_Client\Chat_Client.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Chat_Client.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D _MBCS /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt main.cpp /clr:nostdlib 
+         main.cpp
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jack\Desktop\Chat_Client\Debug\Chat_Client.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Chat_Client.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Jack\Desktop\Chat_Client\Debug\Chat_Client.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\main.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Chat_Client.vcxproj -> C:\Users\Jack\Desktop\Chat_Client\Debug\Chat_Client.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Jack\Desktop\Chat_Client\Debug\Chat_Client.exe;#1" /manifest Debug\Chat_Client.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Chat_Client.unsuccessfulbuild".
+         Touching "Debug\Chat_Client.lastbuildstate".
+     1>Done Building Project "C:\Users\Jack\Desktop\Chat_Client\Chat_Client\Chat_Client.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.87
